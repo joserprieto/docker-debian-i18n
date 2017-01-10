@@ -60,14 +60,6 @@ And execute the build as:
         localedef -i ${LOCALE_LANG_COUNTRY} -c -f ${LOCALE_CODIFICATION} -A /usr/share/locale/locale.alias ${LOCALE_LANG_COUNTRY}.${LOCALE_CODIFICATION}
 ```
 
-
-```dockerfile
-```
-
-```dockerfile
-```
-
-
 ## Timezone
 
 We use a snippet provided by [Oscar](https://oscarmlage.com/) (Thanks!):
