@@ -22,6 +22,7 @@ other Linux distributions.
 
 > [wikipedia.org/wiki/Debian](https://en.wikipedia.org/wiki/Debian)
 
+![logo](./logo.png)
 
 # About this image
 

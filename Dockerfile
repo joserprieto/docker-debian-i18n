@@ -44,3 +44,7 @@ RUN echo "=> Update and upgrading:" && \
 # Set enviroment variables:
 
 ENV LANG=${LOCALE_LANG_COUNTRY}.${LOCALE_CODIFICATION_ENV}
+
+# Expose ports:
+
+EXPOSE 80 443
